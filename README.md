@@ -49,4 +49,4 @@ App runs at http://localhost:3000
 - Add Auth for moderation.
 - Add Meilisearch or Supabase Full-Text for search.
 - Add intake/QC screens (server actions).
-- Add payments + shipping providers.
+- Add payments + shipping providers..
